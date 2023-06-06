@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "García",
+        "fecha_nacimiento": ISODate("1989-05-10"),
+        "pais": "España"
+    },
+    {
+        "nombre": "María",
+        "apellido": "López",
+        "fecha_nacimiento": ISODate("1990-09-22"),
+        "pais": "España"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Martínez",
+        "fecha_nacimiento": ISODate("1978-12-01"),
+        "pais": "España"
+    }
+]
